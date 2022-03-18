@@ -1,0 +1,24 @@
+
+body{
+  background-color: rgba(4, 18, 31, 0.829);
+}
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenedor-calculadora{
+  width: 360px;
+  height: 560px;
+  padding: 14px;
+  background-color: #99c9ff;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
